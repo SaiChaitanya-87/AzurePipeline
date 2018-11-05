@@ -1,5 +1,6 @@
-# Sample ASP.NET Core application for Azure Pipelines docs
 [![Build Status](https://dev.azure.com/000340011464C4AB/Test%20Sai/_apis/build/status/SaiChaitanya-87.AzurePipeline)](https://dev.azure.com/000340011464C4AB/Test%20Sai/_build/latest?definitionId=1)
+
+# Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
